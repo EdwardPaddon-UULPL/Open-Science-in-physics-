@@ -38,7 +38,7 @@ _Even though platforms such as github show a list of user accounts for contribut
 
 + Project initiators: Edward Paddon and Alexis Gilbert
 + Contributors: 
-	Zach Meredith
+	Zach Meredith,
 	Pieter Kooijman
 
 
