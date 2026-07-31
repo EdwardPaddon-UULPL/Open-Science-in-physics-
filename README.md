@@ -17,14 +17,9 @@ In hardware you can find an overview of the necessary steps to produce the parts
 
 This template is adjusted to the typical needs of a hardware project made for research or education. 
 
-The purpose of each subfolder is explained below:
-+ [Hardware](Hardware/_readme.md): Contains all the information related to the hardware construction part of the prototype. Build instructions, (binary) design files and components. Use subfolders for more complex assemblies.
-+ [Documents](Documents/_readme.md): Contains all general documents surrounding the project: images, background information, literature sources, hazard documents.
-+ [Results](Results/_readme.md): Show your prototype in action, if possible including experimental results.
-+ [Software](Software/_readme.md): For hardware projects that have an operating software or firmware.
 
 ## Build instructions
-_Guide the reader with the order of browsing your project repository for an optimum building experience_
+_The best way to start this is by looking at the results and seeing how the gear box drives the platform. Then consider what the needs for your gear box are. What frequency should it spin at. If you feel confident with 3D modelling you could then edit the gears or choose among the selection of gears present to allow a sufficient step down. Then 3D print the gears in LPL and assemble the box. 
   
 
 
