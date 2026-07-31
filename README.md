@@ -5,13 +5,15 @@ This repository presents a small hardware project for the course Open Science fo
 [How to use Markdown, GitHubs formatting language](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
 
 ## Main features
-_This subsection is a very brief introduction to the context and key features of your project that could be interesting for a user in search of a solution_
+_The original project is based on work from Zach Meredith who used a gear box to convert a quickly spinning motor into a more slowly spinning display plate in our Leapfrog Bolt 3D printer_ 
 
-The most important file in the repository is the README.md in the root folder of the reposity. In this main README try to present only the main information for the viewer to get started. 
-Detailed updates or build instructions are better suited for the subfolders such as `./Hardware` or `./Results`.
-
-Next to the README file, a basic folder structure is presented in this repository. 
 Each subfolder contains a `_readme.md` file that explains the conventions and purpose of that folder for the (future) collaborators to keep it tidy.
+
+In the results section you can see the end product of his gearing system using an open box version of the gear box. This allows the different components to be viewed. 
+
+In documents you can find the STL files to be printed as well as the fusion files which would allow you to tinker with the gear ratios. 
+
+In hardware you can find an overview of the necessary steps to produce the parts and assemble the gearbox. 
 
 This template is adjusted to the typical needs of a hardware project made for research or education. 
 
@@ -23,9 +25,7 @@ The purpose of each subfolder is explained below:
 
 ## Build instructions
 _Guide the reader with the order of browsing your project repository for an optimum building experience_
- 
-When you want to start a new repository, it is better that you copy this repository to your project repository and start by changing all the description.
-All instructions and (sub)headers are suggestions. You can change the style, order, or composition as you see necessary. 
+  
 
 
 ## Outcomes
@@ -36,9 +36,10 @@ We will list some best practices and good examples from projects that have used 
 ## Team
 _Even though platforms such as github show a list of user accounts for contributors for a project or repository, the past contributors or external collaborators also deserve a place here_
 
-+ Project initiator: Sanli Faez @sanlifaez
-+ Contributors:
-	+ _add a list of main contributors_
++ Project initiators: Edward Paddon and Alexis Gilbert
++ Contributors: 
+	Zach Meredith
+	Pieter Kooijman
 
 
 ## Get involved
