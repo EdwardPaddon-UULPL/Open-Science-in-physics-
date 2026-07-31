@@ -1,14 +1,8 @@
-# Open Hardware Documentation Template
+# Open Hardware Documentation Challenge
 
-This repository template presents a structure for describing relatively small hardware projects.  
-The main goal of this template is to simplify starting such a repository at an early stage of the project and motivate team members to regularly update their documents in a structured way. 
-To keep it agile, filling in the necessary information for the first version repository should not take more than 10 minutes.
+This repository presents a small hardware project for the course Open Science for Physicists (NS-PH500M) at Utrecht University. The goal of this repository is to be a starting place for all students to find the basic documentation which they can then use the template to build up. Update it regularly and as you make choices to make it useful for the next set of students who will have to recreate your project (hopefully with better documentation). 
 
 [How to use Markdown, GitHubs formatting language](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
-
-_Tips on how to use the template are put in italic. Remove these as soon as they are irrelevant._
-
-_This introduction paragraph, right under the title, should explain the context of the project as well as why has it been initiated._
 
 ## Main features
 _This subsection is a very brief introduction to the context and key features of your project that could be interesting for a user in search of a solution_
