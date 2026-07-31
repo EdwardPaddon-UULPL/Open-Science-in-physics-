@@ -22,12 +22,6 @@ This template is adjusted to the typical needs of a hardware project made for re
 _The best way to start this is by looking at the results and seeing how the gear box drives the platform. Then consider what the needs for your gear box are. What frequency should it spin at and what should it be made of. If you feel confident with 3D modelling you could then edit the gears or choose among the selection of gears present to allow a sufficient step down. Then 3D print the gears in LPL and assemble the box. 
   
 
-
-## Outcomes
-_Here you can list the outcomes of the project that you would like to hightlight. It does not need to be an exhaustive list_
-
-We will list some best practices and good examples from projects that have used this template for their documentation.
-
 ## Team
 _Even though platforms such as github show a list of user accounts for contributors for a project or repository, the past contributors or external collaborators also deserve a place here_
 
@@ -37,29 +31,17 @@ _Even though platforms such as github show a list of user accounts for contribut
 	Pieter Kooijman
 
 
-## Get involved
-_Especially for open source projects, it is beneficial to motivate potential users of the project to contribute back or share their feedback. Make it easy for them._
-
-Comments and suggestions on this folder structure are always welcome. Please create an issue to share your feedback or question, or if you prefer send a pull request. 
-
-Better structured projects can explain a number of options for contributors such as: 
-+ (where to start)
-+ (issue template)
-+ (direct contact)
-+ (pull requests)
-
 ## License
-_After the README, A LICENSE is the most important file in the project documentation. Without a license, there is too much uncertainty to try building anything on top of the original project._
 
 This project is released under CC0 1.0 Universal. 
 You can modify an reuse as you like.
-The project team appreciates your suggestions or examples for enhancing the repository, but your consistent documentation of your project is the best gift to the world. Hopefully, this template could make that a bit easier for you. 
+
 
 ### (How to cite:)
-_Additionally, you can specify how others can cite your project._
+LPL and open physics colab, Utrecht University, 2026
 
 ## (Funding)
-_Be kind to your funders and mention their support visibly and consistently. They also need to show their resources are wisely spent._
+No direct funding
 
 This template can be copied free of charge. 
 
