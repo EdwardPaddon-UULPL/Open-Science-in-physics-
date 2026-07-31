@@ -19,7 +19,7 @@ This template is adjusted to the typical needs of a hardware project made for re
 
 
 ## Build instructions
-_The best way to start this is by looking at the results and seeing how the gear box drives the platform. Then consider what the needs for your gear box are. What frequency should it spin at. If you feel confident with 3D modelling you could then edit the gears or choose among the selection of gears present to allow a sufficient step down. Then 3D print the gears in LPL and assemble the box. 
+_The best way to start this is by looking at the results and seeing how the gear box drives the platform. Then consider what the needs for your gear box are. What frequency should it spin at and what should it be made of. If you feel confident with 3D modelling you could then edit the gears or choose among the selection of gears present to allow a sufficient step down. Then 3D print the gears in LPL and assemble the box. 
   
 
 
